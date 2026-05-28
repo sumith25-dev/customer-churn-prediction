@@ -126,6 +126,6 @@ streamlit run app.py
 ## 👤 Author
 
 **Sumith B R** — Junior AI Engineer  
-[LinkedIn](www.linkedin.com/in/sumith-b-r-548534200) · [GitHub](https://github.com/sumith25-dev)
+[LinkedIn](https://www.linkedin.com/in/sumith-b-r-548534200/) · [GitHub](https://github.com/sumith25-dev)
 
 
