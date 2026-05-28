@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)](https://xgboost.readthedocs.io)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red?logo=streamlit)](https://streamlit.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
